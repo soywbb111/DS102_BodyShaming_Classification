@@ -1,7 +1,3 @@
-# [GHI CHÚ DÀNH CHO NHÓM PHÁT TRIỂN]
-# -----------------------------------
-# Mã nguồn ứng dụng Demo sử dụng thư viện Streamlit.
-# Giao diện và chức năng có thể được mở rộng tùy theo yêu cầu báo cáo.
 
 import streamlit as st
 import joblib
